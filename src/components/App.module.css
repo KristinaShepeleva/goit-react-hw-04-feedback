@@ -1,0 +1,11 @@
+.app {
+display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: antiquewhite;
+    max-width: 332px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+   
+}
